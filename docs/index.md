@@ -7,7 +7,12 @@
 
 ## About me
 
-I'm passionate about building robust, automated documentation workflows that empower teams to deliver high-quality docs at scale. My expertise blends:
+I’m Tharun, a technical writer passionate about bridging engineering and communication.
+I specialize in docs-as-code workflows, AI-assisted documentation, and automation pipelines that make technical content scalable, consistent, and developer-friendly.
+
+Over the past few years, I’ve built tools that analyze user manuals with NLP, automated review systems for documentation, and continuous delivery pipelines that publish docs directly from Git repositories.
+
+My goal is simple — to create documentation that’s as smart and reliable as the software it describes. My expertise blends:
 
 - **Docs-as-Code**: MkDocs, CI/CD, automated publishing
 - **DevOps for Documentation**: Custom pipelines, quality gates, and review automation
