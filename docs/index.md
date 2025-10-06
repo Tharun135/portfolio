@@ -1,7 +1,7 @@
 
 # 👋 Welcome to my technical portfolio
 
-**Technical Writer | DevOps for Docs | NLP Automation | Docs-as-Code Advocate**
+**Technical Writer | Automating Documentation with AI, NLP, and CI/CD**
 
 ---
 
